@@ -12,6 +12,7 @@ mkdir dir1 dir2 dir3 dir4 dir5
 
 # 2. List the contents of the current working directory to verify the presence of the 5 directories
 ls
+ls
 
 # 3. Create 5 text files in dir2 named file1.txt, file2.txt, file3.txt, file4.txt, and file5.txt
 
